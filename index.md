@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to the nhsx.io theme
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, Hola Mundo, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is a normal paragraph following a header. Hola Mundo. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
