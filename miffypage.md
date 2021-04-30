@@ -4,8 +4,6 @@ layout: default
 
 ## Welcome to another page
 
-[Tini to Miffy page](./miffypage.html).
-
 _yay_
 
 [back](./)
