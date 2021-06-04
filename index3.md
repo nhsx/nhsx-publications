@@ -1,6 +1,6 @@
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-# NHS affilitated publications - Statistics
+# NHS and NHSX affiliated publications - Statistics
 {% include plotly_table_nhsx.html %}
 {% include update.html %}
 
