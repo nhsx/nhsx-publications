@@ -7,9 +7,8 @@
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
 Displaying statistics on NHS-affiliated publications on PubMed using end-to-end open source analytics: python, [plotly](https://plotly.com/python/), [github.io](https://pages.github.com/).
-# and [github actions](https://github.com/features/actions).
 
-
+## NHSX affiliated publications
 {% include plotly_table_nhsx.html %}
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
