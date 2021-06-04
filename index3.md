@@ -8,7 +8,8 @@
 
 Displaying statistics on NHS-affiliated publications on PubMed using end-to-end open source analytics: python, [plotly](https://plotly.com/python/), [github.io](https://pages.github.com/).
 
-## NHSX affiliated publications
+#### NHSX affiliated publications
+Pubmed publications that included NHSX affiliated authors.
 {% include plotly_table_nhsx.html %}
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
