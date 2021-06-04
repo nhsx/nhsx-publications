@@ -1,7 +1,6 @@
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
 # NHS and NHSX affiliated publications - Statistics
-{% include plotly_table_nhsx.html %}
 {% include update.html %}
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
@@ -10,7 +9,7 @@ Displaying statistics on NHS-affiliated publications on PubMed using end-to-end 
 
 #### NHSX affiliated publications
 Pubmed publications that included NHSX affiliated authors.
-
+{% include plotly_table_nhsx.html %}
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
