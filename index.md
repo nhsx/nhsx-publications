@@ -1,126 +1,28 @@
----
-layout: default
----
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-# Welcome to the nhsx.io theme
+# NHSX affiliated publications
+{% include update.html %}
 
-Text can be **bold**, Hola Mundo, _italic_, or ~~strikethrough~~.
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-[Link to another page](./another-page.html).
-[Link to tini page](./tinipage.html).
+Displaying statistics on NHS-affiliated publications on <a href="https://pubmed.ncbi.nlm.nih.gov/">Pubmed</a> using end-to-end open source analytics: python, [plotly](https://plotly.com/python/), [github.io](https://pages.github.com/), [Bio.Entrez API](https://biopython.org/docs/1.75/api/Bio.Entrez.html).
 
-There should be whitespace between paragraphs.
+#### NHSX affiliated publications
+Pubmed publications that included NHSX affiliated authors.
+{% include publications.html %}
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Publication Detail:
+{% include plotly_table_nhsx.html %}
 
-# Header 1
+#### NHS affiliated publications
+<a href="https://pubmed.ncbi.nlm.nih.gov/">Pubmed</a> publications that included NHS affiliated authors.
 
-This is a normal paragraph following a header. Hola Mundo. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+{% include plotly_obj.html %}
 
-## Header 2
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-0">
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<div class="nhsuk-u-reading-width">
 
-### Header 3
+  <p class="nhsuk-u-margin-bottom-0">To get in contact, email: <a href="mailto:analytics-unit@nhsx.nhs.uk">analytics-unit@nhsx.nhs.uk</a>.</p>
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+</div>
