@@ -14,7 +14,12 @@ Pubmed publications that included NHSX affiliated authors.
 Publication Detail:
 {% include plotly_table_nhsx.html %}
 
-<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
+#### NHS affiliated publications
+Pubmed pubblications that included NHS affiliated authors.
+
+{% include plotly_obj.html %}
+
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-0">
 
 <div class="nhsuk-u-reading-width">
 
