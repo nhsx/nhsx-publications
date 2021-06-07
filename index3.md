@@ -1,6 +1,6 @@
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-# NHS and NHSX affiliated publications - Statistics
+# NHSX affiliated publications
 {% include update.html %}
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
