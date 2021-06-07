@@ -10,6 +10,8 @@ Displaying statistics on NHS-affiliated publications on PubMed using end-to-end 
 #### NHSX affiliated publications
 Pubmed publications that included NHSX affiliated authors.
 {% include publications.html %}
+
+Publication Detail:
 {% include plotly_table_nhsx.html %}
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
