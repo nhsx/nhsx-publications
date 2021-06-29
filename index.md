@@ -12,9 +12,9 @@ Displaying statistics on NHS-affiliated publications on <a href="https://pubmed.
 
 {% include NHSUK_table.html %}
 
-#### Time-series Chart
+#### NHS Affiliated Publications
 
-<a href="https://pubmed.ncbi.nlm.nih.gov/">Pubmed</a> publications that included NHS affiliated authors.
+Total <a href="https://pubmed.ncbi.nlm.nih.gov/">Pubmed</a> publications that included NHS affiliated authors.
 
 {% include plotly_obj.html %}
 
