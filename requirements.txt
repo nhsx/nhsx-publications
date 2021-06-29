@@ -1,0 +1,11 @@
+requests
+json
+pprint
+pandas
+numpy
+xmltodict
+xml
+pymed
+Bio
+plotly
+datetime
