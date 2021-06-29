@@ -7,15 +7,9 @@
 
 Displaying statistics on NHS-affiliated publications on <a href="https://pubmed.ncbi.nlm.nih.gov/">Pubmed</a> using end-to-end open source analytics: python, [plotly](https://plotly.com/python/), [github.io](https://pages.github.com/), [Bio.Entrez API](https://biopython.org/docs/1.75/api/Bio.Entrez.html).
 
-#### NHSX affiliated publications
-Pubmed publications that included NHSX affiliated authors.
-{% include publications.html %}
-<br>
-<b>Publication Detail:</b>
-{% include plotly_table_nhsx.html %}
+#### NHS Affiliated Publications
 
-#### NHS affiliated publications
-<a href="https://pubmed.ncbi.nlm.nih.gov/">Pubmed</a> publications that included NHS affiliated authors.
+Total <a href="https://pubmed.ncbi.nlm.nih.gov/">Pubmed</a> publications that included NHS affiliated authors.
 
 {% include plotly_obj.html %}
 
