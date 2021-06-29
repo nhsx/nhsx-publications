@@ -10,7 +10,7 @@ Displaying statistics on NHS-affiliated publications on <a href="https://pubmed.
 #### NHSX affiliated publications
 Pubmed publications that included NHSX affiliated authors.
 {% include publications.html %}
-<br>
+
 <b>Publication Detail:</b>
 {% include plotly_table_nhsx.html %}
 
