@@ -12,7 +12,7 @@ Displaying statistics on NHS-affiliated publications on <a href="https://pubmed.
 
 {% include NHSUK_table.html %}
 
-### NHS Affiliated Publications
+#### NHS Affiliated Publications
 
 Total <a href="https://pubmed.ncbi.nlm.nih.gov/">Pubmed</a> publications that included NHS affiliated authors.
 
