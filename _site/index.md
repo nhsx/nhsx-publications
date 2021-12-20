@@ -10,7 +10,7 @@ Displaying statistics on NHS-affiliated publications on <a href="https://pubmed.
 
 {% include update.html %}
 
-{% include NHSUK_table.html %}
+<!---{% include NHSUK_table.html %}--->
 
 #### NHS Affiliated Publications
 
